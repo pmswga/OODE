@@ -1,0 +1,25 @@
+{
+    "general": {
+        "caption": "",
+        "description": "",
+        "version": ""
+    },
+    "project": {
+        "classes": {
+            "class_1": {
+                "parent": "",
+                "name": "",
+                "vars": {
+                    "var_1": {
+                    
+                    }
+                },
+                "methods": {
+                    "method_1": {
+                    
+                    }
+                }
+            }
+        }
+    }
+}
